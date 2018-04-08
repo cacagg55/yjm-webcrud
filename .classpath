@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="resources"/>
+	<classpathentry kind="lib" path="webapps/WEB-INF/lib/druid-1.0.9.jar"/>
+	<classpathentry kind="lib" path="webapps/WEB-INF/lib/el-api.jar"/>
+	<classpathentry kind="lib" path="webapps/WEB-INF/lib/jsp-api.jar"/>
+	<classpathentry kind="lib" path="webapps/WEB-INF/lib/lombok-1.16.4.jar"/>
+	<classpathentry kind="lib" path="webapps/WEB-INF/lib/mysql-connector-java-5.1.26-bin.jar"/>
+	<classpathentry kind="lib" path="webapps/WEB-INF/lib/servlet-api.jar" sourcepath="C:/Users/mm/AppData/Local/Temp/.org.sf.feeling.decompiler1522918504101/source/tomcat-servlet-api-7.0.85-sources.jar"/>
+	<classpathentry kind="lib" path="webapps/WEB-INF/lib/taglibs-standard-impl-1.2.5.jar"/>
+	<classpathentry kind="lib" path="webapps/WEB-INF/lib/taglibs-standard-spec-1.2.5.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="output" path="webapps/WEB-INF/classes"/>
+</classpath>
